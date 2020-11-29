@@ -5,4 +5,5 @@
 4. This prototype also experiments with camera limits and sound effects.
 5. This prototype was necessary for me to test out a suitable game engine to develop my dream projects.
 
-- Special thanks to uheartbeast for guiding me through into compelting this prototype and getting to know Godot Game Engine.
+
+-> Special thanks to uheartbeast for guiding me through into completing this prototype and getting to know Godot Game Engine.
