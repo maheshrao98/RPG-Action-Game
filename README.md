@@ -6,6 +6,6 @@
 5. This prototype was necessary for me to test out a suitable game engine to develop my dream projects.
 
 # A snippet view of the game
-![Gameplay](https://ibb.co/SVG6JP1)
+![GamePlay](https://user-images.githubusercontent.com/37705364/100534531-e2dc7700-324a-11eb-9a6d-c5dd1489203a.gif)
 
 - Special thanks to uheartbeast for guiding me through into completing this prototype and getting to know Godot Game Engine.
