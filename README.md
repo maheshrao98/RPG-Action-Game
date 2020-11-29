@@ -8,4 +8,3 @@
 # A snippet view of the game
 ![GamePlay](https://user-images.githubusercontent.com/37705364/100534531-e2dc7700-324a-11eb-9a6d-c5dd1489203a.gif)
 
-- Special thanks to uheartbeast for guiding me through into completing this prototype and getting to know Godot Game Engine.
